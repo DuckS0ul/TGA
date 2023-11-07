@@ -1,0 +1,12 @@
+{
+  "game" : "SushiGo",
+  "nPlayers" : 2,
+  "mode" : "random",
+  "matchups" : 2,
+  "verbose" : false,
+  "seed" : 740234,
+  "listener" : "json/listeners/basiclistener.json",
+  "destDir" : "outputdir",
+  "output" : "outputdir/GroupT.log",
+  "playerDirectory" : "json/group_t_players"
+}
