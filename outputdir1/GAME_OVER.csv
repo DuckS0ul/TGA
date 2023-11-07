@@ -1,0 +1,11 @@
+GameSeed,GameName,Round,Event,Tick,Turn,PlayerCount,GameID,OrdinalPosition(Player-1 rank),OrdinalPosition(PlayerName-0),OrdinalPosition(Player-1),OrdinalPosition(Player-0),OrdinalPosition(Player-0 rank),OrdinalPosition(PlayerName-1),FinalScore(PlayerName-0),FinalScore(Player-1),FinalScore(Player-0),FinalScore(PlayerName-1),PlayerType(PlayerType-1),PlayerType(PlayerType-0),Winner(PlayerIdx)
+1699384257031,SushiGo,3,GAME_OVER,61,0,2,2,1,BasicMCTS,1,2,2,GroupT,BasicMCTS,54.0,44.0,GroupT,GroupT,BasicMCTS,1
+1699384257032,SushiGo,3,GAME_OVER,63,0,2,3,2,GroupT,2,1,1,BasicMCTS,GroupT,48.0,50.0,BasicMCTS,BasicMCTS,GroupT,0
+1699384257033,SushiGo,3,GAME_OVER,60,0,2,4,1,BasicMCTS,1,2,2,GroupT,BasicMCTS,53.0,46.0,GroupT,GroupT,BasicMCTS,1
+1699384257034,SushiGo,3,GAME_OVER,63,0,2,5,1,BasicMCTS,1,2,2,GroupT,BasicMCTS,63.0,43.0,GroupT,GroupT,BasicMCTS,1
+1699384257035,SushiGo,3,GAME_OVER,61,0,2,6,2,GroupT,2,1,1,BasicMCTS,GroupT,54.0,55.0,BasicMCTS,BasicMCTS,GroupT,0
+1699384257036,SushiGo,3,GAME_OVER,61,0,2,7,1,BasicMCTS,1,2,2,GroupT,BasicMCTS,56.0,38.0,GroupT,GroupT,BasicMCTS,1
+1699384257037,SushiGo,3,GAME_OVER,61,0,2,8,1,GroupT,1,2,2,BasicMCTS,GroupT,57.0,49.0,BasicMCTS,BasicMCTS,GroupT,1
+1699384257038,SushiGo,3,GAME_OVER,60,0,2,9,1,BasicMCTS,1,2,2,GroupT,BasicMCTS,44.0,39.0,GroupT,GroupT,BasicMCTS,1
+1699384257039,SushiGo,3,GAME_OVER,61,0,2,10,1,BasicMCTS,1,2,2,GroupT,BasicMCTS,53.0,43.0,GroupT,GroupT,BasicMCTS,1
+1699384257040,SushiGo,3,GAME_OVER,62,0,2,11,1,GroupT,1,2,2,BasicMCTS,GroupT,41.0,25.0,BasicMCTS,BasicMCTS,GroupT,1
