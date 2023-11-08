@@ -40,6 +40,12 @@ class BasicTreeNode {
     // State in this node (closed loop)
     private AbstractGameState state;
 
+    private double heuristicEvaluation(AbstractGameState state) {
+        // 实现你的启发式评估逻辑，例如，基于 Sushi Go 游戏的特定规则
+        // 返回一个评分，表示当前玩家在给定状态下的优势程度
+        return 0; // 这是一个占位符
+    }
+
     protected BasicTreeNode(BasicMCTSPlayer player, BasicTreeNode parent, AbstractGameState state, Random rnd) {
         this.player = player;
         this.fmCallsCount = 0;

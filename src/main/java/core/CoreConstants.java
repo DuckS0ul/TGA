@@ -53,7 +53,7 @@ public class CoreConstants {
         CARD,
         COUNTER,
         DICE,
-        TOKEN
+        Nigiri, TOKEN
     }
 
     public enum GameResult {
