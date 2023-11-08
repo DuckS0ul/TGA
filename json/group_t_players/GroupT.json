@@ -4,7 +4,7 @@
   "rolloutLength" : 50,
   "maxTreeDepth" : 30,
   "heuristic" : {
-    "class" : "players.heuristics.Sushigo1Heuristic"
+    "class" : "players.heuristics.GroupTHeuristic"
   },
   "budgetType" : "BUDGET_TIME",
   "budget" : 40
