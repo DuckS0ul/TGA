@@ -16,10 +16,10 @@ public class GroupTHeuristic implements IStateHeuristic {
     @Override
     public double evaluateState(AbstractGameState gs, int playerId) {
         double playerScore = gs.getGameScore(playerId);
-        int numPlayers = gs.getNPlayers();
+        int nPlayers = gs.getNPlayers();
         double maxScore = 0;
 
-        for (int i = 0; i < numPlayers; i++) {
+        for (int i = 0; i < nPlayers; i++) {
                 double playerIScore = gs.getGameScore(i);
                 maxScore = Math.max(maxScore, playerIScore);
         }
